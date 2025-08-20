@@ -36,8 +36,10 @@ command for liting remote
 
 command for adding changes in local repository to remote repo
     >git push -u remote_name  branch_name
-    git push luminar master
+    git push -u luminar master
 
+command for listing all branches
+    >git branch
 
 flags
     A => staged
