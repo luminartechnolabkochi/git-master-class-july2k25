@@ -26,6 +26,14 @@ command for adding all staged files to localrepository
 
     >git commit -m "commit message"
 
+command for adding remote repository
+
+   >git remote add origin remote_path
+
+command for liting remote
+
+    >git remote -v
+
 flags
     A => staged
     U => untracked
