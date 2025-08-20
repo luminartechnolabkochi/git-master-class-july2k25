@@ -1,0 +1,19 @@
+
+
+
+command for initializing git 
+    >git init
+
+command for adding modified files to staging area
+
+    >git add -A
+
+command for adding all staged files to localrepository
+
+    >git commit -m "commit message"
+
+flags
+    A => staged
+    U => untracked
+    M => modified
+
