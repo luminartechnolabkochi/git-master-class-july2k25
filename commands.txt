@@ -28,11 +28,16 @@ command for adding all staged files to localrepository
 
 command for adding remote repository
 
-   >git remote add origin remote_path
+   >git remote add name remote_path
 
 command for liting remote
 
     >git remote -v
+
+command for adding changes in local repository to remote repo
+    >git push -u remote_name  branch_name
+    git push luminar master
+
 
 flags
     A => staged
